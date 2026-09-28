@@ -134,6 +134,20 @@ Grocery-Shop-Billing-System/
 
 **Course:** Diploma in Computer Science with Artificial Intelligence
 
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
+  
+---
+
 ## 📄 License
 
 This project was developed for educational purposes as part of a Java Object-Oriented Programming assignment.
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+
+
+
+
