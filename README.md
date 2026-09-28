@@ -131,6 +131,7 @@ Grocery-Shop-Billing-System/
 ## 👨‍💻 Author
 
 **Seshan Rodrigo**
+
 **Course:** Diploma in Computer Science with Artificial Intelligence
 
 ## 📄 License
