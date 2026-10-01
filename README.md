@@ -141,7 +141,7 @@ Grocery-Shop-Billing-System/
 
 ## 📄 License
 
-This project was developed for educational purposes as part of a Java Object-Oriented Programming assignment.
+This project was developed for educational purposes as part of a Enterprise Application Development assignment.
 
 ---
 
